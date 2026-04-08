@@ -21,6 +21,7 @@ https://github.com/juliodelimas/banco-api
 
 ## Estrutura de Diretórios
 
+ ```
 banco-api-tests/
 │
 ├── test/                         # Arquivos de testes
@@ -33,7 +34,7 @@ banco-api-tests/
 ├── .gitignore                    # Arquivos ignorados pelo Git
 ├── package.json                  # Dependências e scripts
 └── README.md                     # Documentação do projeto
-
+```
 ---
 
 ## Configuração do .env
